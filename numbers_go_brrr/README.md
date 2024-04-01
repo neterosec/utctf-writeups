@@ -1,4 +1,4 @@
-#numbers go brr writeup
+##numbers go brr writeup
 
 We are given an instance and it's source code, when running it asks if we want to encrypt a message or if we want to get the flag 
 encrypted and exit after.
